@@ -21,5 +21,9 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all the
    pip install -r requirements.txt 
 ```
 
-
+## Content
+It will be developed using Python and Pytube module, a lightweight,
+dependency-free Python library for beginner to use as YouTube API to direct
+fetchwith YouTube server. Along with that Django will be used for backend
+implementation of the web app.
 
